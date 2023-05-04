@@ -1,6 +1,4 @@
 ---
-layout: article
+layout: home
 tite: Robloxian Mathematical Society
 ---
-
-# Test
