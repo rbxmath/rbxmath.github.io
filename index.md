@@ -1,5 +1,5 @@
 ---
-layout: none
+layout: article
 tite: Robloxian Mathematical Society
 ---
 
