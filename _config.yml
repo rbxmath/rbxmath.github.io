@@ -57,7 +57,7 @@ plugins:
 
 author:
   name   : "Robloxian Mathematical Society"
-  avatar : "/assets/images/logo.svg"
+  avatar : "/assets/images/logo.png"
   bio    : "A community of mathematicians on Roblox."
   links:
     # - label: "Website"
