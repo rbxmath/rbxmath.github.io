@@ -1,6 +1,7 @@
 ---
 permalink: /vector3-mastery/
-title: "Vector3 Mastery"
+title: Vector3 Mastery
+layout: single
 ---
 
 Vector3 Mastery is a 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: vectors. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
@@ -17,7 +18,7 @@ The course will run for 10 weeks with two lectures per week. Each week will focu
 
 The following is the planned course schedule:
 | Week | Topic | Code |
-| :--- | ----- | ---: |
+| ---- | ----- | ---- |
 | 1 | Vectors, products, and norms | Vector object |
 | 2 | Vector geometry | Projection, angles, Gram-Schmidt |
 | 3 | Matrices as linear transformations | Matrix object |
@@ -30,3 +31,6 @@ The following is the planned course schedule:
 | 10 | 3D rotation | Build a demo? |
 
 ## Prerequisites
+
+* High school algebra 1
+* Some familiarity with programming
