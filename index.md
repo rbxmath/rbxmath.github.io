@@ -1,9 +1,9 @@
 ---
+title: Welcome!
 layout: single
 author_profile: true
 ---
 
-# Welcome!
 The Robloxian Mathematical Society is a community of mathematicians on Roblox, welcoming folks from all mathematical backgrounds. To become a member, simply join our [Discord server](https://discord.gg/Mpy5MwqeWc). Here, you can expect to discuss math, receive math help on your projects, and connect with follow math enthusiasts.
 
 ## RbxMath
