@@ -17,16 +17,16 @@ The course will run for 10 weeks with two lectures per week. Each week will focu
 
 The following is the planned course schedule:
 | Week | Topic | Code |
-| ------ | ------ | ------ |
-| 1 | Vectors, Products, and Norms | Vector object |
-| 2 | Vector Geometry | Projection, Angles, Gram Schmidt |
-| 3 | Matrices as Linear Transformations | Matrix Object |
-| 4 | Matrices and Linear Systems | Gaussian Elimination |
-| 5 | Fundamental Spaces | Null Space Computation |
-| 6 | Eigenvectors and Eigenvalues I | Matrix Inverse |
-| 7 | Eigenvectors and Eigenvalues II | Power Method |
-| 8 | Affine Geometry | Triangle Object |
-| 9 | Affine Transformations | CFrame Object |
-| 10 | 3D Rotation | Build a Demo? |
+| :--- | ----- | ---: |
+| 1 | Vectors, products, and norms | Vector object |
+| 2 | Vector geometry | Projection, angles, Gram-Schmidt |
+| 3 | Matrices as linear transformations | Matrix object |
+| 4 | Matrices and linear systems | Gaussian elimination |
+| 5 | Fundamental spaces | Null space computation |
+| 6 | Eigenvectors and eigenvalues I | Matrix inverse |
+| 7 | Eigenvectors and eigenvalues II | Power method |
+| 8 | Affine geometry | Triangle object |
+| 9 | Affine transformations | CFrame object |
+| 10 | 3D rotation | Build a demo? |
 
 ## Prerequisites
