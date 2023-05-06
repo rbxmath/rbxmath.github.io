@@ -1,18 +1,22 @@
 ---
-permalink: /vector3-mastery/
-title: Vector3 Mastery
+permalink: /lard/
+title: Linear Algebra for Roblox Developers
 layout: single
 ---
 
-**Vector3 Mastery** is a 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: vectors. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
+**L**inear **A**lgebra for **R**oblox **D**evelopers (LARD) is a 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: *vectors*. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
 
 * **When:** Monday and Thursday from 6pm--6:50pm PT, starting the week of May 29
 * **Where:** Voice chat on our [Discord server](https://discord.gg/Mpy5MwqeWc)
-* **Who:** Lectures will be given by [Aidan (Darkson)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad
+* **Who:** Lectures will be given by [Aidan (Darkson)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad and veteran Roblox developer
 
 ## Course Structure
 
 The course will run for 10 weeks with two lectures per week. Each week will focus on one topic, starting with a mathematical introduction to the subject and then proceeding to a hands on lesson in building a Roblox lua library to do the math for you. The first lecture each week will be taught by Aidan, who will focus on the mathematics, and the second will be taught by Ethan, who will focus on the code. Both lectures will cover the same topic but from different perspectives. That way, if you get behind, you should be able to catch up by attending the second lecture.
+
+
+### Exercises
+Completing exercises is a necessary step in the process of learning math. As such, math and coding exercises will be assigned each week, which you are strongly encouraged to complete. The coding exercises will build on the code that is presented in the weekly coding lecture. By the end of the semester, you will have programmed your own linear algebra library for use in Roblox.
 
 ## Course Topics and Schedule
 
@@ -77,8 +81,8 @@ The following is the planned course schedule:
 
 ## Prerequisites
 
-* High school algebra 1
-* Some familiarity with programming, preferably on Roblox
+* High school algebra 1, to the level of unit 8 in [Khan Academy's algebra 1 series](https://www.khanacademy.org/math/algebra).
+* Some familiarity with programming, preferably on Roblox. Experience working with the Vector3 and CFrame objects (or their equivalents in another game engine) will be helpful.
 
 ## Registration
 
