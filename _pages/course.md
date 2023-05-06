@@ -4,11 +4,11 @@ title: Vector3 Mastery
 layout: single
 ---
 
-Vector3 Mastery is a 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: vectors. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
+**Vector3 Mastery** is a 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: vectors. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
 
-* **When:** Monday and Friday from 6pm--7pm PT, starting the week of May 29.
-* **Where:** Voice chat on our [Discord server](https://discord.gg/Mpy5MwqeWc).
-* **Who:** Lectures will be given by [Aidan (Darkson)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad.
+* **When:** Monday and Thursday from 6pm--6:50pm PT, starting the week of May 29
+* **Where:** Voice chat on our [Discord server](https://discord.gg/Mpy5MwqeWc)
+* **Who:** Lectures will be given by [Aidan (Darkson)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad
 
 ## Course Structure
 
@@ -78,4 +78,10 @@ The following is the planned course schedule:
 ## Prerequisites
 
 * High school algebra 1
-* Some familiarity with programming
+* Some familiarity with programming, preferably on Roblox
+
+## Registration
+
+Registration is open! To register,
+1. Join our [Discord server](https://discord.gg/Mpy5MwqeWc)
+2. Post in the `#course-registration` channel that you'd like to register. This is mainly for administration purposes, but also for your classmates. You may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure, though.
