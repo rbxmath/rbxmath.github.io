@@ -17,18 +17,63 @@ The course will run for 10 weeks with two lectures per week. Each week will focu
 ## Course Topics and Schedule
 
 The following is the planned course schedule:
-| Week | Topic | Code |
-| ---- | ----- | ---- |
-| 1 | Vectors, products, and norms | Vector object |
-| 2 | Vector geometry | Projection, angles, Gram-Schmidt |
-| 3 | Matrices as linear transformations | Matrix object |
-| 4 | Matrices and linear systems | Gaussian elimination |
-| 5 | Fundamental spaces | Null space computation |
-| 6 | Eigenvectors and eigenvalues I | Matrix inverse |
-| 7 | Eigenvectors and eigenvalues II | Power method |
-| 8 | Affine geometry | Triangle object |
-| 9 | Affine transformations | CFrame object |
-| 10 | 3D rotation | Build a demo? |
+<table>
+	<tr>
+		<td>Week</td>
+		<td>Topic</td>
+		<td>Code</td>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td>Vectors, products, and norms</td>
+		<td>Vector object</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td>Vector geometry</td>
+		<td>Projection, angles, Gram-Schmidt</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td>Matrices as linear transformations</td>
+		<td>Matrix object</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td>Matrices and linear systems</td>
+		<td>Gaussian elimination</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td>Fundamental spaces</td>
+		<td>Null space computation</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td>Eigenvectors and eigenvalues I</td>
+		<td>Matrix inverse</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td>Eigenvectors and eigenvalues II</td>
+		<td>Power method</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td>Affine geometry</td>
+		<td>Triangle object</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td>Affine transformations</td>
+		<td>CFrame object</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td>3D rotation</td>
+		<td>Build a demo?</td>
+	</tr>
+</table>
 
 ## Prerequisites
 
