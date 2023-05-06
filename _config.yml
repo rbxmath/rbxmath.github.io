@@ -13,11 +13,13 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
 title: Robloxian Mathematical Society
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   A community of mathematicians on Roblox
-# twitter_username: aidanepperly
+# twitter_username:
 github_username: rbxmath
 minimal_mistakes_skin: default
 search: true
@@ -62,10 +64,10 @@ author:
   links:
     # - label: "Website"
     #   icon: "fas fa-fw fa-link"
-    #   url: "https://aidan-epperly.github.io"
+    #   url: 
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
-    #   url: "https://twitter.com/aidanepperly"
+    #   url: 
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rbxmath"
@@ -77,10 +79,10 @@ author:
 #   links:
 #     - label: "Twitter"
 #       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/aidanepperly"
+#       url: 
 #     - label: "GitHub"
 #       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/aidan-epperly"
+#       url: 
 
 defaults:
   # _posts
