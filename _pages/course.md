@@ -8,7 +8,7 @@ layout: single
 
 * **When:** Mondays and Thursdays from 6pm--6:50pm PT, starting the week of May 29
 * **Where:** Voice chat on our [Discord server](https://discord.gg/Mpy5MwqeWc)
-* **Who:** Lectures will be given by [Aidan (Darkson)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad and veteran Roblox developer
+* **Who:** Lectures will be given by [Aidan (DarkInfernoDrago)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad and veteran Roblox developer
 
 ## Course Structure
 
