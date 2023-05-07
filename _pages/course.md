@@ -12,11 +12,11 @@ layout: single
 
 ## Course Structure
 
-The course will run for 10 weeks with two lectures per week. Each week will focus on one topic, starting with a mathematical introduction to the subject and then proceeding to a hands on lesson in building a Roblox lua library to do the math for you. The first lecture each week will be taught by Aidan, who will focus on the mathematics, and the second will be taught by Ethan, who will focus on the code. Both lectures will cover the same topic but from different perspectives. That way, if you get behind, you should be able to catch up by attending the second lecture.
+The course will run for 10 weeks with two lectures per week. Each week will focus on one topic, starting with a mathematical introduction to the subject and then proceeding to a hands-on lesson in building a Roblox lua library to do the math for you. The first lecture each week will be taught by Aidan, who will focus on the mathematics, and the second will be taught by Ethan, who will focus on the code. Both lectures will cover the same topic but from different perspectives. That way, if you get behind, you should be able to catch up by attending the second lecture.
 
 
 ### Exercises
-Completing exercises is a crucial step in the process of learning math. As such, math and coding exercises will be assigned each week, which you are strongly encouraged to complete. The coding exercises will extend the content from the weekly coding lecture, and by the end of the course, you will have your very own linear algebra library.
+Completing exercises is a crucial step in the process of learning mathematics. As such, math and coding exercises will be assigned each week, which you are strongly encouraged to complete. The coding exercises will extend the content from the weekly coding lecture, and by the end of the course, you will have your very own linear algebra library.
 
 ## Course Topics and Schedule
 
