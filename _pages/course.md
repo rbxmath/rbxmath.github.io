@@ -16,7 +16,7 @@ The course will run for 10 weeks with two lectures per week. Each week will focu
 
 
 ### Exercises
-Completing exercises is a necessary step in the process of learning math. As such, math and coding exercises will be assigned each week, which you are strongly encouraged to complete. The coding exercises will build on the code that is presented in the weekly coding lecture. By the end of the semester, you will have programmed your own linear algebra library for use in Roblox.
+Completing exercises is a crucial step in the process of learning math. As such, math and coding exercises will be assigned each week, which you are strongly encouraged to complete. The coding exercises will extend the content from the weekly coding lecture, and by the end of the course, you will have your very own linear algebra library.
 
 ## Course Topics and Schedule
 
