@@ -1,10 +1,10 @@
 ---
-permalink: /lard/
-title: Linear Algebra for Roblox Developers
+permalink: /larp/
+title: LARP
 layout: single
 ---
 
-**L**inear **A**lgebra for **R**oblox **D**evelopers (LARD) is a 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: *vectors*. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
+**L**inear **A**lgebra for **R**oblox **P**rogrammers (LARP) is a free 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: *vectors*. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
 
 * **When:** Mondays and Thursdays from 6pm--6:50pm PT, starting the week of May 29
 * **Where:** Voice chat on our [Discord server](https://discord.gg/Mpy5MwqeWc)
