@@ -88,4 +88,4 @@ The following is the planned course schedule:
 
 Registration is open! To register,
 1. Join our [Discord server](https://discord.gg/Mpy5MwqeWc)
-2. Post in the `#course-registration` channel that you'd like to register. This is mainly for administration purposes, but also for your classmates. You may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure, though.
+2. Post in the `#v101-registration` channel that you'd like to register. This is mainly for administration purposes, but also for your classmates. You may wish to include a brief description of your interests and reasons for attending the class, and any links to personal webpages or Twitter accounts you want people to see. No pressure, though.
