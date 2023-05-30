@@ -10,7 +10,7 @@ The Robloxian Mathematical Society is a community of mathematicians on Roblox, w
 [RbxMath](https://github.com/rbxmath/rbxmath) is a fledgling repository of mathematical packages written in [luau](https://luau-lang.org/) by members of our community.
 
 ## Office Hours
-Office hours are hosted via Discord voice chat on most Thursdays at 8pm ET. This is a 1-hour period to get help, ask questions, or just chat about math with [Aidan](https://aidan-epperly.github.io/) and [Ethan](https://ecurtiss.dev/).
+Office hours are hosted via Discord voice chat on most Saturdays at 1pm PT. This is a 1-hour period to get help, ask questions, or just chat about math with [Aidan](https://aidan-epperly.github.io/) and [Ethan](https://ecurtiss.dev/).
 
 ## metauni
 If you like our community, then you'll also like [metauni](https://metauni.org/)---a community of scholars in the metaverse. metauni hosts a weekly series of math and science seminars, and occasionally online courses, all within Roblox.
