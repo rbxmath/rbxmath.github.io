@@ -55,12 +55,12 @@ The following is the planned course schedule:
 	<tr>
 		<td>6</td>
 		<td>Eigenvectors and eigenvalues I</td>
-		<td>Matrix inverse</td>
+		<td>Power method</td>
 	</tr>
 	<tr>
 		<td>7</td>
 		<td>Eigenvectors and eigenvalues II</td>
-		<td>Power method</td>
+		<td>Matrix inverse</td>
 	</tr>
 	<tr>
 		<td>8</td>
