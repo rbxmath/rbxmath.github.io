@@ -4,6 +4,8 @@ title: Vector101
 layout: single
 ---
 
+**The first course of Vector101 ran from May–August 2023. Recordings for all 20 lectures are [on YouTube](https://www.youtube.com/@AidanEpperly). Source code for the coding lectures and homeworks are [on GitHub](https://github.com/rbxmath/vector101). We are happy to still discuss course content with you [on Discord](https://discord.gg/Mpy5MwqeWc).**
+___
 Vector101 is a free 10-week course designed to help game developers increase their knowledge of one of the most important mathematical objects: *vectors*. Vectors permeate the mathematics of game development, perhaps most infamously in CFrames. We aim to explain the mathematics underpinning these objects while also guiding you through programming a practical linear algebra library for all your vector needs.
 
 * **When:** Lectures are on Mondays and Thursdays from 6pm--6:50pm PT, starting the week of May 29. Office hours for getting help are on Saturdays at 1pm PT.
@@ -83,9 +85,3 @@ The following is the planned course schedule:
 
 * High school algebra 1, to the level of unit 8 in [Khan Academy's algebra 1 series](https://www.khanacademy.org/math/algebra).
 * Some familiarity with programming, preferably on Roblox. Experience working with the Vector3 and CFrame objects (or their equivalents in another game engine) will be helpful.
-
-## Registration
-
-The course is ongoing, but you can still register and catch up with the recordings. To register,
-1. Join our [Discord server](https://discord.gg/Mpy5MwqeWc)
-2. Grab the Vector101 role from Channels & Roles, or react with ✅ in the `#v101-info` channel.
