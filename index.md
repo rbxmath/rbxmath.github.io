@@ -7,7 +7,7 @@ author_profile: true
 The Robloxian Mathematical Society is a community of mathematicians on Roblox, welcoming folks from all mathematical backgrounds. To become a member, simply join our [Discord server](https://discord.gg/Mpy5MwqeWc). Here, you can discuss math, receive math help on your projects, and connect with fellow math enthusiasts.
 
 ## What we do
-* **[Vector101](https://rbxmath.org/vector101):** A 10-week course that taught linear algebra to game developers. Recordings for all 20 lectures are [on YouTube](https://www.youtube.com/@AidanEpperly).
+* **[Vector101](https://rbxmath.org/vector101):** A 10-week course that taught linear algebra to game developers. Recordings for all 20 lectures are [on YouTube](https://www.youtube.com/watch?v=HE66TJ6Fgwo&list=PL4fwXgKshDWfn3RgkENX9c0i8DdLTU94z).
 * **[RbxMath](https://github.com/rbxmath/rbxmath):** A fledgling repository of mathematical packages for Roblox development, written in [luau](https://luau-lang.org/) by members of our community.
 * **Office Hours:** A weekly 1-hour period to get help, ask questions, or just chat about math with [Aidan](https://aidan-epperly.github.io/) and [Ethan](https://ecurtiss.dev/). Hosted via Discord voice chat on Thursdays at 8pm ET.
 
