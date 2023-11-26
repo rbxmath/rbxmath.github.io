@@ -1,6 +1,6 @@
 ---
 permalink: /wintermini/
-title: Winter Mini Series - Approximation Theory
+title: Winter Miniseries - Approximation Theory
 layout: single
 ---
 
