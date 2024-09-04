@@ -10,11 +10,11 @@ Vector101 is a free 10-week course designed to help game developers increase the
 
 * **When:** Lectures are on Mondays and Thursdays from 6pm--6:50pm PT, starting the week of May 29. Office hours for getting help are on Saturdays at 1pm PT.
 * **Where:** Voice chat on our [Discord server](https://discord.gg/Mpy5MwqeWc)
-* **Who:** Lectures will be given by [Aidan (DarkInfernoDrago)](https://aidan-epperly.github.io/), a math PhD student, and [Ethan (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad and veteran Roblox developer
+* **Who:** Lectures will be given by [Aidan (DarkInfernoDrago)](https://aidan-epperly.github.io/), a math PhD student, and [Ella (AstroCode)](https://ecurtiss.dev), a 5th-year math undergrad and veteran Roblox developer
 
 ## Course Structure
 
-The course will run for 10 weeks with two lectures per week. Each week will focus on one topic, starting with a mathematical introduction to the subject and then proceeding to a hands-on lesson in building a Roblox lua library to do the math for you. The first lecture each week will be taught by Aidan, who will focus on the mathematics, and the second will be taught by Ethan, who will focus on the code. Both lectures will cover the same topic but from different perspectives. That way, if you get behind, you should be able to catch up by attending the second lecture.
+The course will run for 10 weeks with two lectures per week. Each week will focus on one topic, starting with a mathematical introduction to the subject and then proceeding to a hands-on lesson in building a Roblox lua library to do the math for you. The first lecture each week will be taught by Aidan, who will focus on the mathematics, and the second will be taught by Ella, who will focus on the code. Both lectures will cover the same topic but from different perspectives. That way, if you get behind, you should be able to catch up by attending the second lecture.
 
 
 ### Exercises
