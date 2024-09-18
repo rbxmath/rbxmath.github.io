@@ -23,5 +23,6 @@ If you like our community, then you'll also like [metauni](https://metauni.org/)
 * 2/13/2023: Began weekly office hours with [Aidan](https://aidan-epperly.github.io/) and [Ella](https://ecurtiss.dev/)
 * 5/3/2023: Creation of [rbxmath.org](https://rbxmath.org) website and [RbxMath](https://github.com/rbxmath/rbxmath) repository
 * 5/29/2023: First [Vector101](https://rbxmath.org/vector101) lecture; attended by 20 members with 40 more registered
-* 9/9/2023: Held an in-person meeting at the [2023 Roblox Developers Conference](https://blog.roblox.com/2023/09/rdc-2023-roblox-going-next/), with presentations on balanced ternary, particle VFX, and topology; attended by 7 members and 6 passersby
+* 9/9/2023: Held an in-person meeting at the [2023 Roblox Developers Conference](https://blog.roblox.com/2023/09/rdc-2023-roblox-going-next/) with presentations on balanced ternary, particle VFX, and topology; attended by 7 members and 6 passersby
 * 12/2023: Hosted [Winter Miniseries - Approximation Theory](https://rbxmath.org/wintermini); attended by 19 members
+* 9/7/2024: Held an in-person meeting at the 2024 Roblox Developers Conference with presentations on probability and splines; attended by ~22 members
